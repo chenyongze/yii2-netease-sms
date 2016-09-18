@@ -1,0 +1,21 @@
+{
+    "name": "bikerr/yii2-netease-sms",
+    "description": "网易云信 yii2 扩展",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","sms","netease","网易云信","yii2-网易云信","yii2-netease-sms","yii2-netease","yii2-sms"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "bikerr",
+            "email": "ujschenlin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bikerr\\": ""
+        }
+    }
+}
